@@ -1,0 +1,31 @@
+[31-Mar-2022 10:03:44 UTC] PHP Fatal error:  Cannot declare class auth, because the name is already in use in /home/customer/www/feemodeler.com.au/public_html/application/models/user.php on line 0
+[28-Apr-2022 03:57:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cellmap() on null in /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameReflower/TableCell.php:37
+Stack trace:
+#0 /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(866): Dompdf\FrameReflower\TableCell->reflow(NULL)
+#1 /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameReflower/TableRow.php(58): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#2 /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(866): Dompdf\FrameReflower\TableRow->reflow(Object(Dompdf\FrameDecorator\Block))
+#3 /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameReflower/Block.php(874): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow(Object(Dompdf\FrameDecorator\Block))
+#4 /home/customer/ in /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameReflower/TableCell.php on line 37
+[28-Apr-2022 03:59:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cellmap() on null in /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameReflower/TableCell.php:37
+Stack trace:
+#0 /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(866): Dompdf\FrameReflower\TableCell->reflow(NULL)
+#1 /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameReflower/TableRow.php(58): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#2 /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(866): Dompdf\FrameReflower\TableRow->reflow(Object(Dompdf\FrameDecorator\Block))
+#3 /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameReflower/Block.php(874): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow(Object(Dompdf\FrameDecorator\Block))
+#4 /home/customer/ in /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameReflower/TableCell.php on line 37
+[09-May-2022 23:10:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cellmap() on null in /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameReflower/TableCell.php:37
+Stack trace:
+#0 /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(866): Dompdf\FrameReflower\TableCell->reflow(NULL)
+#1 /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameReflower/TableRow.php(58): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#2 /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(866): Dompdf\FrameReflower\TableRow->reflow(Object(Dompdf\FrameDecorator\Block))
+#3 /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameReflower/Block.php(874): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow(Object(Dompdf\FrameDecorator\Block))
+#4 /home/customer/ in /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameReflower/TableCell.php on line 37
+[09-May-2022 23:14:57 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/customer/www/staging.feemodeler.com.au/public_html/application/views/pdf/getpdf_final2.php on line 280
+[09-May-2022 23:15:50 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/customer/www/staging.feemodeler.com.au/public_html/application/views/pdf/getpdf_final2.php on line 287
+[09-May-2022 23:16:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cellmap() on null in /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameReflower/TableCell.php:37
+Stack trace:
+#0 /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(866): Dompdf\FrameReflower\TableCell->reflow(NULL)
+#1 /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameReflower/TableRow.php(58): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#2 /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(866): Dompdf\FrameReflower\TableRow->reflow(Object(Dompdf\FrameDecorator\Block))
+#3 /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameReflower/Block.php(874): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow(Object(Dompdf\FrameDecorator\Block))
+#4 /home/customer/ in /home/customer/www/staging.feemodeler.com.au/public_html/application/third_party/dompdf/src/FrameReflower/TableCell.php on line 37

@@ -1,0 +1,96 @@
+[21-May-2021 12:49:35 Australia/Brisbane] PHP Fatal error:  Uncaught exception 'DOMPDF_Exception' with message 'No block-level parent found.  Not good.' in /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/inline_positioner.cls.php:66
+Stack trace:
+#0 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/frame_decorator.cls.php(471): Inline_Positioner->position()
+#1 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/text_frame_reflower.cls.php(340): Frame_Decorator->position()
+#2 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/frame_decorator.cls.php(477): Text_Frame_Reflower->reflow(NULL)
+#3 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/page_frame_reflower.cls.php(169): Frame_Decorator->reflow()
+#4 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/frame_decorator.cls.php(477): Page_Frame_Reflower->reflow(NULL)
+#5 /home/audereco/public_html/feemodeler.com.au/applicati in /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/inline_positioner.cls.php on line 66
+[27-May-2021 11:49:24 Australia/Brisbane] PHP Fatal error:  Uncaught exception 'DOMPDF_Exception' with message 'No block-level parent found.  Not good.' in /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/inline_positioner.cls.php:66
+Stack trace:
+#0 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/frame_decorator.cls.php(471): Inline_Positioner->position()
+#1 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/text_frame_reflower.cls.php(340): Frame_Decorator->position()
+#2 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/frame_decorator.cls.php(477): Text_Frame_Reflower->reflow(NULL)
+#3 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/page_frame_reflower.cls.php(169): Frame_Decorator->reflow()
+#4 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/frame_decorator.cls.php(477): Page_Frame_Reflower->reflow(NULL)
+#5 /home/audereco/public_html/feemodeler.com.au/applicati in /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/inline_positioner.cls.php on line 66
+[03-Aug-2021 10:19:11 Australia/Brisbane] PHP Fatal error:  Uncaught exception 'DOMPDF_Exception' with message 'No block-level parent found.  Not good.' in /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/inline_positioner.cls.php:66
+Stack trace:
+#0 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/frame_decorator.cls.php(471): Inline_Positioner->position()
+#1 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/text_frame_reflower.cls.php(340): Frame_Decorator->position()
+#2 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/frame_decorator.cls.php(477): Text_Frame_Reflower->reflow(NULL)
+#3 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/page_frame_reflower.cls.php(169): Frame_Decorator->reflow()
+#4 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/frame_decorator.cls.php(477): Page_Frame_Reflower->reflow(NULL)
+#5 /home/audereco/public_html/feemodeler.com.au/applicati in /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/inline_positioner.cls.php on line 66
+[03-Aug-2021 10:30:11 Australia/Brisbane] PHP Fatal error:  Uncaught exception 'DOMPDF_Exception' with message 'No block-level parent found.  Not good.' in /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/inline_positioner.cls.php:66
+Stack trace:
+#0 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/frame_decorator.cls.php(471): Inline_Positioner->position()
+#1 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/text_frame_reflower.cls.php(340): Frame_Decorator->position()
+#2 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/frame_decorator.cls.php(477): Text_Frame_Reflower->reflow(NULL)
+#3 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/page_frame_reflower.cls.php(169): Frame_Decorator->reflow()
+#4 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/frame_decorator.cls.php(477): Page_Frame_Reflower->reflow(NULL)
+#5 /home/audereco/public_html/feemodeler.com.au/applicati in /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/inline_positioner.cls.php on line 66
+[16-Aug-2021 11:17:29 Australia/Brisbane] PHP Fatal error:  Uncaught exception 'DOMPDF_Exception' with message 'No block-level parent found.  Not good.' in /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/inline_positioner.cls.php:66
+Stack trace:
+#0 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/frame_decorator.cls.php(471): Inline_Positioner->position()
+#1 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/text_frame_reflower.cls.php(340): Frame_Decorator->position()
+#2 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/frame_decorator.cls.php(477): Text_Frame_Reflower->reflow(NULL)
+#3 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/page_frame_reflower.cls.php(169): Frame_Decorator->reflow()
+#4 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/frame_decorator.cls.php(477): Page_Frame_Reflower->reflow(NULL)
+#5 /home/audereco/public_html/feemodeler.com.au/applicati in /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/inline_positioner.cls.php on line 66
+[23-Aug-2021 14:56:00 Australia/Brisbane] PHP Fatal error:  Uncaught exception 'DOMPDF_Exception' with message 'No block-level parent found.  Not good.' in /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/inline_positioner.cls.php:66
+Stack trace:
+#0 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/frame_decorator.cls.php(471): Inline_Positioner->position()
+#1 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/text_frame_reflower.cls.php(340): Frame_Decorator->position()
+#2 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/frame_decorator.cls.php(477): Text_Frame_Reflower->reflow(NULL)
+#3 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/page_frame_reflower.cls.php(169): Frame_Decorator->reflow()
+#4 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/frame_decorator.cls.php(477): Page_Frame_Reflower->reflow(NULL)
+#5 /home/audereco/public_html/feemodeler.com.au/applicati in /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/inline_positioner.cls.php on line 66
+[22-Sep-2021 10:11:17 Australia/Brisbane] PHP Fatal error:  Uncaught exception 'DOMPDF_Exception' with message 'No block-level parent found.  Not good.' in /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/inline_positioner.cls.php:66
+Stack trace:
+#0 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/frame_decorator.cls.php(471): Inline_Positioner->position()
+#1 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/text_frame_reflower.cls.php(340): Frame_Decorator->position()
+#2 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/frame_decorator.cls.php(477): Text_Frame_Reflower->reflow(NULL)
+#3 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/page_frame_reflower.cls.php(169): Frame_Decorator->reflow()
+#4 /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/frame_decorator.cls.php(477): Page_Frame_Reflower->reflow(NULL)
+#5 /home/audereco/public_html/feemodeler.com.au/applicati in /home/audereco/public_html/feemodeler.com.au/application/third_party/dompdf/include/inline_positioner.cls.php on line 66
+[11-Mar-2022 20:52:37 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 20:52:40 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 20:52:42 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 20:57:30 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 20:58:48 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 20:58:52 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 20:59:18 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 20:59:19 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 20:59:22 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 20:59:59 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:01:33 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:01:33 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:01:53 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:02:01 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:02:06 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:02:07 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:02:30 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:02:32 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:02:33 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:05:36 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:06:21 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:06:24 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:06:26 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:06:57 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:07:03 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:07:18 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:07:20 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:07:20 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:07:28 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:08:43 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:08:45 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:09:20 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:09:23 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:10:03 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:10:17 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:10:20 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:11:05 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:11:06 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:11:07 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
+[11-Mar-2022 21:11:08 Australia/Brisbane] PHP Fatal error:  Call to undefined method CI_Loader::template() in /home/audereco/public_html/feemodeler.com.au/staging/application/controllers/main.php on line 56
